@@ -1,0 +1,6 @@
+date,responding_facilities,responding_beds,positive_patients,suspected_positive_patients,positive_icu,suspected_positive_icu
+2020-03-31,0.92,0.95,1855,3773,774,642
+2020-04-01,0.92,0.96,1922,3481,816,618
+2020-04-02,0.92,0.92,2188,3417,901,584
+2020-04-03,0.96,0.98,2300,3297,1008,586
+2020-04-04,0.87,0.92,2398,3187,1040,559
