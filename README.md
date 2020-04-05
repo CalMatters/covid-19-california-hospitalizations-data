@@ -22,4 +22,4 @@ The state data relies on local hospitals to disclose numbers. On any given day, 
 
 If you have any questions about this dataset, [feel free to contact us](mailto:john@calmatters.org).
 
-*CalMatters is a nonpartisan, nonprofit journalism venture committed to explaining how California’s state Capitol works and why it matters.* 
+*[CalMatters](https://calmatters.org) is a nonpartisan, nonprofit journalism venture committed to explaining how California’s state Capitol works and why it matters.* 
