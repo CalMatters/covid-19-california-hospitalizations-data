@@ -2,7 +2,7 @@
 
 CalMatters is compiling a dataset of California hospitalizations due to the COVID-19 pandemic. The data is based on daily updates of the [California Department of Public Health's dashboard](https://public.tableau.com/profile/ca.open.data#!/vizhome/COVID-19PublicDashboard/Covid-19Hospitals) showing hospitalizations. The dashboard does not show historic data.
 
-CalMatters started compiling hospitalization data on March 31, 2020, when the dashboard went live. We carefully input the data by hand, but there's always a chance there is an input error. The state dashboard does not allow the user to download the data. So in the meantime, the dataset we are compiling is available for public, non-commercial use. If you use this dataset, please mention it was **compiled by CalMatters**. The dataset will be updated daily as new numbers are released. 
+CalMatters started compiling hospitalization data on March 31, 2020, when the dashboard went live. We carefully input the data by hand, but there's always a chance there is an input error. The state dashboard does not allow the user to download the data. So in the meantime, the dataset we are compiling is available for public, noncommercial use. If you use this dataset, please mention it was **compiled by CalMatters**. The dataset will be updated daily as new numbers are released. 
 
 ## About the Data
 
