@@ -6,7 +6,7 @@ CalMatters started compiling hospitalization data on March 31, 2020, when the da
 
 In the meantime, the dataset we are compiling is available for public, non-commercial use. If you use this dataset, please mention it was compiled by CalMatters. The dataset will be updated daily as new numbers are released. 
 
-##About the Data
+## About the Data
 
 There are two files available in this dataset:
 
