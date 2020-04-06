@@ -1,6 +1,6 @@
 # COVID-19 California Hospitalizations Data
 
-CalMatters is compiling a dataset of California hospitalizations due to the COVID-19 pandemic. The data is based on daily updates of the [California Department of Public Health's dashboard](https://public.tableau.com/profile/ca.open.data#!/vizhome/COVID-19PublicDashboard/Covid-19Hospitals) showing hospitalizations. The dashboard does not show historic data.
+CalMatters is compiling a dataset of California hospitalizations due to the COVID-19 pandemic. The data is based on daily updates from the [California Department of Public Health's dashboard](https://public.tableau.com/profile/ca.open.data#!/vizhome/COVID-19PublicDashboard/Covid-19Hospitals) showing hospitalizations. The dashboard does not show historic data.
 
 CalMatters started compiling hospitalization data on March 31, 2020, when the dashboard went live. We carefully input the data by hand, but there's always a chance there is an input error. The state dashboard does not allow the user to download the data. So in the meantime, the dataset we are compiling is available for public, noncommercial use. If you use this dataset, please mention it was **compiled by CalMatters**. The dataset will be updated daily as new numbers are released. 
 
@@ -18,7 +18,8 @@ The California Department of Public Health is the source of this dataset. When r
 3. **Positive ICU:** Total number of lab-tested positive COVID-19 patients in intensive care. 
 4. **Suspected Positive ICU:** Total number of intensive care patients that have symptoms consistent with COVID-19 with test results pending
 
-The state data relies on local hospitals to disclose numbers. On any given day, the percentage of hospitals reporting daily hospitalization numbers varies. The state reports both the number of responding facilities and the number of licensed beds reflected in the data. With that in mind, there could likely be more patients than what is being reported on any given day. 
+The state data relies on local hospitals to disclose numbers. On any given day, the percentage of hospitals reporting daily hospitalization numbers varies. The state reports both the number of responding facilities and the number of licensed beds reflected in the data. With that in mind, there could likely be more patients than what is being reported on any given day. Also, the patient numbers are not cumulative and update day-to-day as the state releases updates. 
+
 
 If you have any questions about this dataset, [feel free to contact us](mailto:john@calmatters.org).
 
