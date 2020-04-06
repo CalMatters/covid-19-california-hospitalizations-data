@@ -20,6 +20,7 @@ The California Department of Public Health is the source of this dataset. When r
 
 The state data relies on local hospitals to disclose numbers. On any given day, the percentage of hospitals reporting daily hospitalization numbers varies. The state reports both the number of responding facilities and the number of licensed beds reflected in the data. With that in mind, there could likely be more patients than what is being reported on any given day. Also, the patient numbers are not cumulative and update day-to-day as the state releases updates. 
 
+Another note: there have been days where the number of total patients reported by the state does not add up with the county-level sum of patients. We're trying to get answers on why the statewide number is higher at times. 
 
 If you have any questions about this dataset, [feel free to contact us](mailto:john@calmatters.org).
 
