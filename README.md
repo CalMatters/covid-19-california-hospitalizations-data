@@ -2,7 +2,7 @@
 
 **April 17 Update: State reports 100% facilities reporting, but it omits one facility that is suspended. Data will show one facility and 99 beds not responding as a result.**
 
-CalMatters is compiling a dataset of California hospitalizations due to the COVID-19 pandemic. The data is based on daily updates from the [California Department of Public Health's dashboard](https://public.tableau.com/profile/ca.open.data#!/vizhome/COVID-19PublicDashboard/Covid-19Hospitals) showing hospitalizations. The dashboard does not show historic data.
+CalMatters is compiling a dataset of California hospitalizations due to the COVID-19 pandemic. The data is based on daily updates from the [California Department of Public Health's dashboard](https://public.tableau.com/profile/ca.open.data#!/vizhome/COVID-19PublicDashboard/Covid-19Hospitals) showing hospitalizations for that day, not cumulative patients. The dashboard does not show historic data.
 
 CalMatters started compiling hospitalization data on March 31, 2020, when the dashboard went live. We carefully input the data by hand, but there's always a chance there is an input error. The state dashboard does not allow the user to download the data. So in the meantime, the dataset we are compiling is available for public, noncommercial use. If you use this dataset, please mention it was **compiled by CalMatters**. The dataset will be updated daily as new numbers are released. 
 
