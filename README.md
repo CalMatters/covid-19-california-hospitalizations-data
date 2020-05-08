@@ -1,7 +1,7 @@
 # COVID-19 California Hospitalizations Data
 
 ## May 8 Update and finale ##
-This repo will no longer be updated as the state has [released all of their hospitalization data](https://data.chhs.ca.gov/dataset/california-covid-19-hospital-data-and-case-statistics/resource/6cd8d424-dfaa-4bdd-9410-a3d656e1176e) in machine-readable format on their data portal.
+This repo will no longer be updated as the state has [released their hospitalization data](https://data.chhs.ca.gov/dataset/california-covid-19-hospital-data-and-case-statistics/resource/6cd8d424-dfaa-4bdd-9410-a3d656e1176e) in machine-readable format on their data portal.
 
 **April 17 Update: State reports 100% facilities reporting, but it omits one facility that is suspended. Data will show one facility and 99 beds not responding as a result.**
 
