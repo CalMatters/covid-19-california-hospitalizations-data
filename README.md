@@ -3,6 +3,7 @@
 ## May 8 Update and finale ##
 This repo will no longer be updated as the state has [released their hospitalization data](https://data.chhs.ca.gov/dataset/california-covid-19-hospital-data-and-case-statistics/resource/6cd8d424-dfaa-4bdd-9410-a3d656e1176e) in machine-readable format on their data portal.
 
+-------------------------------------------------------------------------------------------------------------------------------
 **April 17 Update: State reports 100% facilities reporting, but it omits one facility that is suspended. Data will show one facility and 99 beds not responding as a result.**
 
 CalMatters is compiling a dataset of California hospitalizations due to the COVID-19 pandemic. The data is based on daily updates from the [California Department of Public Health's dashboard](https://public.tableau.com/profile/ca.open.data#!/vizhome/COVID-19PublicDashboard/Covid-19Hospitals) showing hospitalizations for that day, not cumulative patients. The dashboard does not show historic data.
